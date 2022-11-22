@@ -1,0 +1,23 @@
+{
+  "name": "driven-eats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagodlb/driven-eats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagodlb/driven-eats/issues"
+  },
+  "homepage": "https://github.com/tiagodlb/driven-eats#readme",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
